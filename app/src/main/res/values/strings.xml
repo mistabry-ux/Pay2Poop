@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pay2Poo</string>
+    <string name="setup_title">Let\'s Set You Up 💼</string>
+    <string name="setup_subtitle">We\'ll calculate exactly how much your boss pays you to poop.</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_occupation">Job Title / Occupation</string>
+    <string name="hint_hours">Hours Worked Per Week</string>
+    <string name="hint_salary">Annual Salary ($)</string>
+    <string name="btn_get_started">Let\'s Go!</string>
+    <string name="start_session">Start Poop Session</string>
+    <string name="stop_session">Stop Session</string>
+    <string name="session_active">Session in progress…</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_metrics">Metrics</string>
+    <string name="hourly_rate_fmt">$%,.2f / hr</string>
+    <string name="per_minute_fmt">$%,.4f / min</string>
+    <string name="earnings_fmt">$%,.2f</string>
+    <string name="label_live_earnings">Earned so far this session</string>
+    <string name="label_today_sessions">Today\'s sessions</string>
+    <string name="label_today_earnings">Earned today</string>
+    <string name="label_total_sessions">Total Sessions</string>
+    <string name="label_total_earned">Total Earned</string>
+    <string name="label_total_time">Total Time</string>
+    <string name="label_avg_duration">Avg Duration</string>
+    <string name="label_this_week">This Week</string>
+    <string name="label_week_sessions">Sessions</string>
+    <string name="label_week_earned">Earned</string>
+    <string name="label_recent_sessions">Recent Sessions</string>
+    <string name="no_sessions_yet">No sessions logged yet.\nHit the button when nature calls! 🚽</string>
+    <string name="btn_reset_profile">Reset Profile &amp; Data</string>
+    <string name="tap_to_start">Tap the button below when you head to the restroom.</string>
+    <plurals name="sessions_today">
+        <item quantity="one">%d session today</item>
+        <item quantity="other">%d sessions today</item>
+    </plurals>
+</resources>
